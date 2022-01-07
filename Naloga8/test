@@ -1,0 +1,10 @@
+javac Naloga8.java && java Naloga8 I8_1.txt R1 && diff --strip-trailing-cr O8_1.txt R1
+java Naloga8 I8_2.txt R2 && diff --strip-trailing-cr O8_2.txt R2
+java Naloga8 I8_3.txt R3 && diff --strip-trailing-cr O8_3.txt R3
+java Naloga8 I8_4.txt R4 && diff --strip-trailing-cr O8_4.txt R4
+java Naloga8 I8_5.txt R5 && diff --strip-trailing-cr O8_5.txt R5
+java Naloga8 I8_6.txt R6 && diff --strip-trailing-cr O8_6.txt R6
+java Naloga8 I8_7.txt R7 && diff --strip-trailing-cr O8_7.txt R7
+java Naloga8 I8_8.txt R8 && diff --strip-trailing-cr O8_8.txt R8
+java Naloga8 I8_9.txt R9 && diff --strip-trailing-cr O8_9.txt R9
+java Naloga8 I8_10.txt R10 && diff --strip-trailing-cr O8_10.txt R10
